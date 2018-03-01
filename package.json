@@ -26,7 +26,7 @@
     "can-view-callbacks": "^4.0.0",
     "can-view-import": "^4.0.0",
     "can-view-nodelist": "^4.0.0",
-    "steal-stache": "^4.0.0"
+    "steal-stache": "4.0.1"
   },
   "repository": {
     "type": "git",
